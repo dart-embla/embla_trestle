@@ -1,7 +1,9 @@
 import 'package:embla/application.dart';
 import 'package:trestle/gateway.dart';
 
-export 'package:trestle/trestle.dart';
+export 'gateway.dart';
+export 'model.dart';
+export 'orm.dart';
 
 class DatabaseBootstrapper extends Bootstrapper {
   final Gateway gateway;

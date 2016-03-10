@@ -25,4 +25,3 @@ class Post extends Model {
   @field String body;
 }
 ```
-

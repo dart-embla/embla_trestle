@@ -2,11 +2,10 @@ name: embla_trestle
 author: Emil Persson <emil.n.persson@gmail.com>
 homepage: https://github.com/dart-embla/embla_trestle
 description: Trestle integration with Embla
-version: 0.1.2
+version: 0.2.0
 environment:
   sdk: '>=1.12.0 <2.0.0'
 
 dependencies:
   embla: '>=0.1.12 <0.3.0'
-  trestle: ^0.6.0
-
+  trestle: ^0.7.0
